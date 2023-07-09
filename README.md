@@ -7,7 +7,28 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://simpleicons.org/icons/html5.svg) ![CSS3](https://simpleicons.org/icons/css3.svg) ![Bootstrap](https://simpleicons.org/icons/bootstrap.svg) ![SASS](https://simpleicons.org/icons/sass.svg) ![JavaScript](https://simpleicons.org/icons/javascript.svg) ![jQuery](https://simpleicons.org/icons/jquery.svg) ![Angular](https://simpleicons.org/icons/angular.svg) ![Angular.js](https://simpleicons.org/icons/angularjs.svg) ![TypeScript](https://simpleicons.org/icons/typescript.svg) ![React](https://simpleicons.org/icons/react.svg) ![React Router](https://simpleicons.org/icons/reactrouter.svg) ![Redux](https://simpleicons.org/icons/redux.svg) ![Next JS](https://simpleicons.org/icons/nextdotjs.svg) ![Python](https://simpleicons.org/icons/python.svg) ![Django](https://simpleicons.org/icons/django.svg) ![Flask](https://simpleicons.org/icons/flask.svg) ![SQLite](https://simpleicons.org/icons/sqlite.svg) ![NodeJS](https://simpleicons.org/icons/node-dot-js.svg) ![Express.js](https://simpleicons.org/icons/express.svg) ![MongoDB](https://simpleicons.org/icons/mongodb.svg) ![Docker](https://simpleicons.org/icons/docker.svg)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=for-the-badge&logo=AngularJS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
+![ReactRouter](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+
 
 
 
