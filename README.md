@@ -7,27 +7,8 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://simpleicons.org/icons/html5.svg) ![CSS3](https://simpleicons.org/icons/css3.svg) ![Bootstrap](https://simpleicons.org/icons/bootstrap.svg) ![SASS](https://simpleicons.org/icons/sass.svg) ![JavaScript](https://simpleicons.org/icons/javascript.svg) ![jQuery](https://simpleicons.org/icons/jquery.svg) ![Angular](https://simpleicons.org/icons/angular.svg) ![Angular.js](https://simpleicons.org/icons/angularjs.svg) ![TypeScript](https://simpleicons.org/icons/typescript.svg) ![React](https://simpleicons.org/icons/react.svg) ![React Router](https://simpleicons.org/icons/reactrouter.svg) ![Redux](https://simpleicons.org/icons/redux.svg) ![Next JS](https://simpleicons.org/icons/nextdotjs.svg) ![Python](https://simpleicons.org/icons/python.svg) ![Django](https://simpleicons.org/icons/django.svg) ![Flask](https://simpleicons.org/icons/flask.svg) ![SQLite](https://simpleicons.org/icons/sqlite.svg) ![NodeJS](https://simpleicons.org/icons/node-dot-js.svg) ![Express.js](https://simpleicons.org/icons/express.svg) ![MongoDB](https://simpleicons.org/icons/mongodb.svg) ![Docker](https://simpleicons.org/icons/docker.svg)
+
 
 
 
