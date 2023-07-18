@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hello, I'm Hekimcan AKTAŞ, a 20-year-old Software Engineering student at CBU with a strong passion for technology and innovation.<br><br>🛠 Programming Skills:<br>- 🌐 Front-End: HTML, CSS, SASS,Javascript<br>- 📚 Libraries & Frameworks: Bootstrap, jQuery, TypeScript, Angular, React.js,Next.js<br>- 🖥️ Back-End: Python, Node.js (Express.js)<br>- 💻 Databases: MongoDB<br>- 💾 Version Control: Git<br><br>-📱Mobile Development:Dart-Flutter 📱
+👨‍💻 Hello, I'm Hekimcan AKTAŞ, a 20-year-old Software Engineering student at CBU with a strong passion for technology and innovation.<br><br>🛠 Programming Skills:<br>- 🌐 Front-End: HTML, CSS, SASS,Javascript<br>- 📚 Libraries & Frameworks: Bootstrap, jQuery, TypeScript, Angular, React.js,Next.js<br>- 🖥️ Back-End: Python, Node.js (Express.js)<br>- 💻 Databases: MongoDB<br>- 💾 Version Control: Git<br>-📱Mobile Development:Dart-Flutter <br><br>
 📈 I am dedicated to continuous growth and learning, always striving to stay up-to-date with the latest advancements in the field.<br><br>🎯 Problem-solving and overcoming challenges drive my motivation to excel.<br><br>😊 I am enthusiastic about contributing to open-source projects, bringing my ideas to life and collaborating with the best minds in the industry.
 
 
