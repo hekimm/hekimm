@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hekimmcann" target="blank"><img src="https://img.shields.io/twitter/follow/hekimmcann?logo=twitter&style=for-the-badge" alt="hekimmcann" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Next.js,Angular,Node.js,MongoDB,Python**
+- 🌱 I’m currently learning **React.js,Next.js,Angular,Node.js,MongoDB,Python,React Native,Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@hekimcanaktas](https://medium.com/@hekimcanaktas)
 
-- 💬 Ask me about **Html,CSS,SASS,Bootstrap,JavaScript,Jquery,TypeScript,React.js,Next.js,Angular,Node.js,MongoDB,Python**
+- 💬 Ask me about **Html,CSS,SASS,Bootstrap,JavaScript,Jquery,TypeScript,React.js,Next.js,Angular,Node.js,MongoDB,Python,React Native,Flutter**
 
 - 📫 How to reach me **hekimcanaktas.com**
 
