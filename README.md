@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hi 👋, I'm Hekimcan AKTAŞ<br>
-I'm a Full-stack web developer & a mobile app developer, with a strong passion for technology, and I study at CBU.
+I'm a Full-stack web developer & a mobile app developer, with a strong passion for technology, and I study at CBU. <br> <br>
 [![ProfileImage](profile-image.jpeg)](https://hekimcanaktas.com) 
 
 
