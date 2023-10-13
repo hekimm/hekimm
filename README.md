@@ -3,8 +3,7 @@
 Hi 👋, I'm Hekimcan AKTAŞ<br>
 I'm a Full-stack web developer & a mobile app developer, with a strong passion for technology, and I study at CBU.
 
-<!-- Image Placeholder -->
-<img src="https://img.freepik.com/premium-photo/binary-code-digital-technology-background-made-with-zeros-ones_601748-38889.jpg?w=740" style="width: 100%; max-width: 500px; border-radius:25px; box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);" alt="Hekimcan AKTAŞ's Picture">
+
 
 🔭 I’m currently working on Netflix Clone Project<br>
 🌱 I’m currently learning: 
