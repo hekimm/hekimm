@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Hekimcan AKTAŞ<br>
 I'm a Full-stack web developer & a mobile app developer, with a strong passion for technology, and I study at CBU.
-
+[![ProfileImage](profile-image.jpeg)](https://hekimcanaktas.com) 
 
 
 🔭 I’m currently working on Netflix Clone Project<br>
