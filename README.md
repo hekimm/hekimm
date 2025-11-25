@@ -1,68 +1,152 @@
 <!-- Premium Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hekimcan%20Aktaş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-Focused%20Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=52"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=AI-Focused%20Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=55&descColor=ffffff"/>
 </div>
 
-<!-- Animated Typing -->
+<!-- Animated Intro Banner -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning;React+Native+%7C+Next.js+%7C+FastAPI+%7C+Supabase" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Space!" alt="Welcome" />
 </div>
 
-<!-- Profile Views & Social Badges -->
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Profile Stats Row -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hekimm&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-  <a href="https://github.com/hekimm?tab=followers">
-    <img src="https://img.shields.io/github/followers/hekimm?style=for-the-badge&logo=github&color=236ad3" alt="Followers"/>
-  </a>
   <a href="https://github.com/hekimm">
-    <img src="https://img.shields.io/github/stars/hekimm?style=for-the-badge&logo=github&color=f5c211" alt="Stars"/>
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-6AD3F7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus"/>
+  </a>
+  <img src="https://img.shields.io/badge/Lives-Turkey-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Lives"/>
+  <a href="mailto:hekimcanaktas@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;**About Me**
-
-<p align="left">
-🔭 Currently building <b>AI-driven mobile & web applications</b><br/>
-<sub>Emotion Analysis • Gesture Detection • ECG Anomaly Detection • Dental X-ray Caries Detection</sub><br/><br/>
-🌱 Learning & developing with<br/>
-<sub>Python • FastAPI • ML/DL • Computer Vision • React Native • Next.js 15 • Supabase</sub><br/><br/>
-👯 Open to collaborate on<br/>
-<sub>AI/ML Projects • Computer Vision Apps • Full Stack SaaS • Mobile Applications</sub><br/><br/>
-🤝 Looking for help with<br/>
-<sub>Scaling AI Pipelines • GPU Optimization • Model Deployment</sub><br/><br/>
-💬 Ask me about<br/>
-<sub>YOLO • OpenCV • TensorFlow • PyTorch • React Native • Next.js • FastAPI</sub><br/><br/>
-📫 Reach me at **hekimcanaktas@gmail.com**
-</p>
-
-<br clear="both"/>
-
-<!-- Connect Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="28" /> &nbsp;**Connect With Me**
-
 <div align="center">
-  <a href="https://linkedin.com/in/hekimm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://komarev.com/ghpvc/?username=hekimm&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/hekimm?tab=followers">
+    <img src="https://img.shields.io/github/followers/hekimm?style=for-the-badge&logo=github&color=6AD3F7&label=FOLLOWERS" alt="Followers"/>
   </a>
-  <a href="https://github.com/hekimm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:hekimcanaktas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://github.com/hekimm">
+    <img src="https://img.shields.io/github/stars/hekimm?style=for-the-badge&logo=github&color=f5c211&label=TOTAL+STARS" alt="Stars"/>
   </a>
 </div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- About Me Section with Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+<td width="50%">
+
+```yaml
+name: Hekimcan Aktaş
+located_in: Turkey
+current_focus: AI & Computer Vision
+
+expertise:
+  - "🧠 Deep Learning & Neural Networks"
+  - "👁️ Computer Vision & Image Processing"
+  - "📱 Cross-Platform Mobile Development"
+  - "🌐 Full Stack Web Applications"
+
+currently_building:
+  - "😊 Emotion Analysis Systems"
+  - "🖐️ Gesture Detection Models"
+  - "❤️ ECG Anomaly Detection"
+  - "🦷 Dental X-ray Caries Detection"
+
+learning: ["MLOps", "LLMs", "Edge AI"]
+
+hobbies: ["Open Source", "Tech Blogs", "AI Research"]
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- What I Do Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<br/>
+<b>AI & ML</b>
+<br/>
+<sub>Building intelligent systems with TensorFlow, PyTorch & YOLO</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<br/>
+<b>Computer Vision</b>
+<br/>
+<sub>Image processing, object detection & facial recognition</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br/>
+<b>Mobile Dev</b>
+<br/>
+<sub>Cross-platform apps with React Native & Expo</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br/>
+<b>Full Stack</b>
+<br/>
+<sub>Modern web apps with Next.js, FastAPI & Supabase</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
 <!-- Tech Stack Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;**Tech Stack**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -115,25 +199,29 @@
 
 <br/>
 
-<!-- GitHub Stats Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;**GitHub Statistics**
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<br/>
+
+<!-- GitHub Stats Section -->
 <div align="center">
-  <a href="https://github.com/hekimm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/hekimm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Stats" />
 </div>
 
 <br/>
 
-<!-- Streak Stats -->
+<!-- Animated Stats Cards -->
 <div align="center">
-  <a href="https://github.com/hekimm">
-    <img src="https://streak-stats.demolab.com?user=hekimm&theme=tokyonight&border_radius=5" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=ffffff&langs_count=8" height="180em" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- Streak Stats with Custom Theme -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hekimm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -145,8 +233,17 @@
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 <!-- Trophies Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> &nbsp;**GitHub Trophies**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%8F%86+GitHub+Trophies" alt="Trophies" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hekimm&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
@@ -154,7 +251,18 @@
 
 <br/>
 
-<!-- Premium Snake Animation -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%90%8D+Contribution+Snake" alt="Snake" />
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake-dark.svg" />
@@ -165,16 +273,68 @@
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- Connect Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/hekimm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hekimm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hekimcanaktas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Animated Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
+
+<br/>
+
 <!-- Quote Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
+
+<br/>
+
+<!-- Spotify Now Playing (Optional) -->
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=6AD3F7&bar_color_cover=false" alt="Spotify"/>
+</div>
+
+<br/>
 
 <!-- Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
 </div>
 
 <div align="center">
-  <b>⭐ If you find my projects interesting, feel free to star them! ⭐</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting!+Star+my+repos+if+you+like+them!+%E2%AD%90" alt="Thanks" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer"/>
 </div>
