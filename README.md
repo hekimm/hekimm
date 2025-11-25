@@ -103,28 +103,29 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
 <br/>
 <b>AI & ML</b>
 <br/>
 <sub>Building intelligent systems with TensorFlow, PyTorch & YOLO</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
 <br/>
 <b>Computer Vision</b>
 <br/>
 <sub>Image processing, object detection & facial recognition</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
 <br/>
 <b>Mobile Dev</b>
 <br/>
 <sub>Cross-platform apps with React Native & Expo</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" style="margin-right:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38">
 <br/>
 <b>Full Stack</b>
 <br/>
