@@ -118,15 +118,21 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages"/>
+  <a href="https://github.com/hekimm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/hekimm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hekimm&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+  <a href="https://github.com/hekimm">
+    <img src="https://streak-stats.demolab.com?user=hekimm&theme=tokyonight&border_radius=5" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
