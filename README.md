@@ -1,4 +1,4 @@
-<!--  Animated Header -->
+<!-- Premium Animated Header -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=Junior%20Software%20Engineer&descSize=18&descAlignY=55&descColor=ffffff"/>
 </div>
@@ -34,6 +34,10 @@
   <a href="https://github.com/hekimm">
     <img src="https://img.shields.io/github/stars/hekimm?style=for-the-badge&logo=github&color=f5c211&label=TOTAL+STARS" alt="Stars"/>
   </a>
+  <br/><br/>
+  <a href="https://github.com/hekimm/hekimm/actions/workflows/snake.yml">
+    <img src="https://github.com/hekimm/hekimm/actions/workflows/snake.yml/badge.svg" alt="Snake Animation Status"/>
+  </a>
 </div>
 
 <br/>
@@ -56,28 +60,27 @@
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
     </td>
     <td width="50%">
-
-```yaml
+      <pre>
 name: Hekimcan Aktaş
 located_in: Turkey
-education: Celal Bayar Üniversitesi - Yazılım Mühendisliği (2022-2026)
+education: Celal Bayar Üniversitesi
+          Yazılım Mühendisliği (2022-2026)
 current_role: Junior Software Engineer
 
 expertise:
-  - "🌐 Modern Web Development (React, Next.js)"
-  - "⚙️ Backend Engineering (Node.js, FastAPI)"
-  - "🤖 Machine Learning & AI (TensorFlow, PyTorch)"
-  - "📱 Mobile & Desktop Applications"
+  - Modern Web Development (React, Next.js)
+  - Backend Engineering (Node.js, FastAPI)
+  - Machine Learning & AI (TensorFlow, PyTorch)
+  - Mobile & Desktop Applications
 
 current_projects:
-  - "🍽️ Restoran Adisyon Sistemi (İlk freelance projem)"
-  - "🌆 Smart City Explorer (Çoklu API entegrasyonu)"
+  - Restoran Adisyon Sistemi (İlk freelance projem)
+  - Smart City Explorer (Çoklu API entegrasyonu)
 
-learning: ["LLM", "NLP", "AI Agents", "MLOps"]
-focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
-```
-
-</td>
+learning: LLM, NLP, AI Agents, MLOps
+focus_areas: Full-stack Development, AI/ML, Backend Systems
+      </pre>
+    </td>
   </tr>
 </table>
 
@@ -138,7 +141,7 @@ focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
 
 <div align="center">
 
-### 🌐 Frontend & Mobile
+<h3>🌐 Frontend & Mobile</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
@@ -150,7 +153,7 @@ focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-### ⚙️ Backend & Database
+<h3>⚙️ Backend & Database</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
@@ -161,7 +164,7 @@ focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
 </p>
 
-### 🤖 AI / Machine Learning
+<h3>🤖 AI / Machine Learning</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
@@ -171,7 +174,7 @@ focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
 </p>
 
-### 🛠️ DevOps & Tools
+<h3>🛠️ DevOps & Tools</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
@@ -246,7 +249,7 @@ focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%90%8D+Contribution+Snake" alt="Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Contribution+Snake+Game" alt="Snake" />
 </div>
 
 <br/>
@@ -255,8 +258,83 @@ focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake.svg" />
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake.svg" />
   </picture>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- Pacman Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%95%B9%EF%B8%8F+Coding+is+my+Game!" alt="Pacman" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/>
+        <br/><br/><b>🎯 Problem Solving</b>
+        <br/><sub>Her bug bir level, her çözüm bir zafer!</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+        <br/><br/><b>📚 Continuous Learning</b>
+        <br/><sub>Yeni teknolojiler = Power-ups</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
+        <br/><br/><b>🚀 Building Projects</b>
+        <br/><sub>Code, commit, deploy, repeat!</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Pacman Loader Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <br/><br/>
+  <sub><i>"Eating bugs and shipping features since 2017..."</i></sub>
+</div>
+
+<br/>
+
+<!-- Developer Stats with Pacman Theme -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/>
+        <br/><b>2017</b>
+        <br/><sub>Coding Journey Started</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/>
+        <br/><b>10+</b>
+        <br/><sub>Technologies Mastered</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/>
+        <br/><b>∞</b>
+        <br/><sub>Problems Solved</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"/>
+        <br/><b>24/7</b>
+        <br/><sub>Learning Mode</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
