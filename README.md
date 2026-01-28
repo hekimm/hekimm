@@ -1,6 +1,6 @@
-<!-- Premium Animated Header -->
+<!--  Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=AI-Focused%20Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=55&descColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=Junior%20Software%20Engineer&descSize=18&descAlignY=55&descColor=ffffff"/>
 </div>
 
 <!-- Animated Intro Banner -->
@@ -16,7 +16,7 @@
 <!-- Profile Stats Row -->
 <div align="center">
   <a href="https://github.com/hekimm">
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-6AD3F7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI/ML-6AD3F7?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
   </a>
   <img src="https://img.shields.io/badge/Lives-Turkey-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Lives"/>
   <a href="mailto:hekimcanaktas@gmail.com">
@@ -45,44 +45,40 @@
 
 <!-- About Me Section with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hakkımda" alt="About Me" />
 </div>
 
 <br/>
 
 <table align="center">
-<tr>
-<td width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-
-</td>
-<td width="50%">
+  <tr>
+    <td width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+    </td>
+    <td width="50%">
 
 ```yaml
 name: Hekimcan Aktaş
 located_in: Turkey
-current_focus: AI & Computer Vision
+education: Celal Bayar Üniversitesi - Yazılım Mühendisliği (2022-2026)
+current_role: Junior Software Engineer
 
 expertise:
-  - "🧠 Deep Learning & Neural Networks"
-  - "👁️ Computer Vision & Image Processing"
-  - "📱 Cross-Platform Mobile Development"
-  - "🌐 Full Stack Web Applications"
+  - "🌐 Modern Web Development (React, Next.js)"
+  - "⚙️ Backend Engineering (Node.js, FastAPI)"
+  - "🤖 Machine Learning & AI (TensorFlow, PyTorch)"
+  - "📱 Mobile & Desktop Applications"
 
-currently_building:
-  - "😊 Emotion Analysis Systems"
-  - "🖐️ Gesture Detection Models"
-  - "❤️ ECG Anomaly Detection"
-  - "🦷 Dental X-ray Caries Detection"
+current_projects:
+  - "🍽️ Restoran Adisyon Sistemi (İlk freelance projem)"
+  - "🌆 Smart City Explorer (Çoklu API entegrasyonu)"
 
-learning: ["MLOps", "LLMs", "Edge AI"]
-
-hobbies: ["Open Source", "Tech Blogs", "AI Research"]
+learning: ["LLM", "NLP", "AI Agents", "MLOps"]
+focus_areas: ["Full-stack Development", "AI/ML", "Backend Systems"]
 ```
 
 </td>
-</tr>
+  </tr>
 </table>
 
 <br/>
@@ -94,45 +90,36 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 
 <!-- What I Do Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Odak+Alanlar%C4%B1m" alt="What I Do" />
 </div>
 
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
-<br/>
-<b>AI & ML</b>
-<br/>
-<sub>Building intelligent systems with TensorFlow, PyTorch & YOLO</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
-<br/>
-<b>Computer Vision</b>
-<br/>
-<sub>Image processing, object detection & facial recognition</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
-<br/>
-<b>Mobile Dev</b>
-<br/>
-<sub>Cross-platform apps with React Native & Expo</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" style="margin-right:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38">
-<br/>
-<b>Full Stack</b>
-<br/>
-<sub>Modern web apps with Next.js, FastAPI & Supabase</sub>
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
+        <br/><b>Modern Web Development</b>
+        <br/><sub>React, Next.js, TypeScript ile modern web uygulamaları</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80">
+        <br/><b>Backend Engineering</b>
+        <br/><sub>Node.js, FastAPI, PostgreSQL, MongoDB ile backend sistemler</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
+        <br/><b>Machine Learning & AI</b>
+        <br/><sub>TensorFlow, PyTorch ile AI/ML projeleri</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80">
+        <br/><b>Mobil & Masaüstü</b>
+        <br/><sub>Cross-platform uygulama geliştirme</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -144,26 +131,15 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Yetenekler" alt="Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
 
-### 🤖 AI / Machine Learning / Deep Learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Anaconda"/>
-</p>
-
 ### 🌐 Frontend & Mobile
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
@@ -175,23 +151,34 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 </p>
 
 ### ⚙️ Backend & Database
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
 </p>
 
 ### 🛠️ DevOps & Tools
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
 </p>
@@ -207,7 +194,7 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+%C4%B0statistikleri" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -241,7 +228,7 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 
 <!-- Trophies Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%8F%86+GitHub+Trophies" alt="Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%8F%86+GitHub+Ödülleri" alt="Trophies" />
 </div>
 
 <br/>
@@ -281,17 +268,17 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 
 <!-- Connect Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+%C4%B0leti%C5%9Fim!" alt="Connect" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/hekimm" target="_blank">
+  <a href="https://www.linkedin.com/in/hekimcan-aktas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/hekimm" target="_blank">
+  <a href="https://github.com/hekimcanaktas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
@@ -316,13 +303,6 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 
 <br/>
 
-<!-- Spotify Now Playing (Optional) -->
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=6AD3F7&bar_color_cover=false" alt="Spotify"/>
-</div>
-
-<br/>
-
 <!-- Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -331,7 +311,7 @@ hobbies: ["Open Source", "Tech Blogs", "AI Research"]
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting!+Star+my+repos+if+you+like+them!+%E2%AD%90" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Ziyaret+etti%C4%9Finiz+i%C3%A7in+te%C5%9Fekk%C3%BCrler!+%E2%AD%90" alt="Thanks" />
 </div>
 
 <br/>
