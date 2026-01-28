@@ -45,7 +45,7 @@
 
 <!-- About Me Section with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hakkımda" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </div>
 
 <br/>
@@ -59,8 +59,8 @@
       <pre>
 name: Hekimcan Aktaş
 located_in: Turkey
-education: Celal Bayar Üniversitesi
-          Yazılım Mühendisliği (2022-2026)
+education: Celal Bayar University
+          Software Engineering (2022-2026)
 current_role: Junior Software Engineer
 
 expertise:
@@ -70,8 +70,8 @@ expertise:
   - Mobile & Desktop Applications
 
 current_projects:
-  - Restoran Adisyon Sistemi (İlk freelance projem)
-  - Smart City Explorer (Çoklu API entegrasyonu)
+  - Restaurant POS System (First freelance project)
+  - Smart City Explorer (Multi-API integration)
 
 learning: LLM, NLP, AI Agents, MLOps
 focus_areas: Full-stack Development, AI/ML, Backend Systems
@@ -89,7 +89,7 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <!-- What I Do Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Odak+Alanlar%C4%B1m" alt="What I Do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
 </div>
 
 <br/>
@@ -100,22 +100,22 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
         <br/><b>Modern Web Development</b>
-        <br/><sub>React, Next.js, TypeScript ile modern web uygulamaları</sub>
+        <br/><sub>Building modern web apps with React, Next.js, TypeScript</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80">
         <br/><b>Backend Engineering</b>
-        <br/><sub>Node.js, FastAPI, PostgreSQL, MongoDB ile backend sistemler</sub>
+        <br/><sub>Scalable backend systems with Node.js, FastAPI, PostgreSQL</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
         <br/><b>Machine Learning & AI</b>
-        <br/><sub>TensorFlow, PyTorch ile AI/ML projeleri</sub>
+        <br/><sub>AI/ML projects with TensorFlow, PyTorch</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80">
-        <br/><b>Mobil & Masaüstü</b>
-        <br/><sub>Cross-platform uygulama geliştirme</sub>
+        <br/><b>Mobile & Desktop</b>
+        <br/><sub>Cross-platform application development</sub>
       </td>
     </tr>
   </table>
@@ -130,7 +130,7 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Yetenekler" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -193,7 +193,7 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+%C4%B0statistikleri" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -202,13 +202,6 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=ffffff&langs_count=8" height="180em" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<!-- Streak Stats with Custom Theme -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hekimm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -232,24 +225,6 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Trophies Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%8F%86+GitHub+Ödülleri" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hekimm&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
 <!-- Dynamic Snake Animation (No Workflow Required!) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake+Game!" alt="Snake" />
@@ -260,14 +235,6 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 <!-- Animated Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hekimm&custom_title=🐍%20Snake%20Eating%20My%20Contributions&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&area_color=6AD3F7" alt="Contribution Snake" width="95%"/>
-</div>
-
-<br/>
-
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=🎮%20Game%20Stats" height="180em" alt="Game Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hekimm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=ffffff" height="180em" alt="Streak Stats"/>
 </div>
 
 <br/>
@@ -311,14 +278,14 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/>
         <br/><br/><b>🎯 Problem Solving</b>
-        <br/><sub>Her bug bir level, her çözüm bir zafer!</sub>
+        <br/><sub>Every bug is a level, every solution is a victory!</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/Level-Expert-6AD3F7?style=for-the-badge" alt="Level"/>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
         <br/><br/><b>📚 Continuous Learning</b>
-        <br/><sub>Yeni teknolojiler = Power-ups</sub>
+        <br/><sub>New technologies = Power-ups</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/XP-10000%2B-f5c211?style=for-the-badge" alt="XP"/>
       </td>
@@ -370,13 +337,6 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Pacman Progress Bar -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD3F7,100:f5c211&height=100&section=header&text=🕹️%20GAME%20ON!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -384,7 +344,7 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <!-- Connect Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+%C4%B0leti%C5%9Fim!" alt="Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
 </div>
 
 <br/>
@@ -427,7 +387,7 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Ziyaret+etti%C4%9Finiz+i%C3%A7in+te%C5%9Fekk%C3%BCrler!+%E2%AD%90" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting!+Star+my+repos+if+you+like+them!+%E2%AD%90" alt="Thanks" />
 </div>
 
 <br/>
