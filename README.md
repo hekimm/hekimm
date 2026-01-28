@@ -34,10 +34,6 @@
   <a href="https://github.com/hekimm">
     <img src="https://img.shields.io/github/stars/hekimm?style=for-the-badge&logo=github&color=f5c211&label=TOTAL+STARS" alt="Stars"/>
   </a>
-  <br/><br/>
-  <a href="https://github.com/hekimm/hekimm/actions/workflows/snake.yml">
-    <img src="https://github.com/hekimm/hekimm/actions/workflows/snake.yml/badge.svg" alt="Snake Animation Status"/>
-  </a>
 </div>
 
 <br/>
@@ -217,6 +213,13 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
+<!-- Detailed Contribution Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hekimm&theme=tokyonight" alt="Contribution Details" width="95%"/>
+</div>
+
+<br/>
+
 <!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hekimm&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&area_color=6AD3F7" alt="Contribution Graph"/>
@@ -247,19 +250,31 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- Dynamic Snake Animation (No Workflow Required!) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Contribution+Snake+Game" alt="Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake+Game!" alt="Snake" />
 </div>
 
 <br/>
 
+<!-- Animated Contribution Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake.svg" />
-    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/hekimm/hekimm/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hekimm&custom_title=🐍%20Snake%20Eating%20My%20Contributions&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&area_color=6AD3F7" alt="Contribution Snake" width="95%"/>
+</div>
+
+<br/>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=🎮%20Game%20Stats" height="180em" alt="Game Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hekimm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=ffffff" height="180em" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<!-- Animated Snake Eating Contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br/>
@@ -269,13 +284,27 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Pacman Section -->
+<!-- Dynamic Pacman Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%95%B9%EF%B8%8F+Coding+is+my+Game!" alt="Pacman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%95%B9%EF%B8%8F+Coding+is+my+Game!;%F0%9F%8E%AE+Level+Up+Every+Day!;%F0%9F%9A%80+Eating+Bugs+%26+Shipping+Features!" alt="Pacman" />
 </div>
 
 <br/>
 
+<!-- Animated Pacman Eating Dots -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
+  <br/><br/>
+  <sub><i>"Eating bugs and shipping features since 2017..."</i></sub>
+</div>
+
+<br/>
+
+<!-- Game Stats -->
 <div align="center">
   <table>
     <tr>
@@ -283,16 +312,22 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/>
         <br/><br/><b>🎯 Problem Solving</b>
         <br/><sub>Her bug bir level, her çözüm bir zafer!</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Level-Expert-6AD3F7?style=for-the-badge" alt="Level"/>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
         <br/><br/><b>📚 Continuous Learning</b>
         <br/><sub>Yeni teknolojiler = Power-ups</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/XP-10000%2B-f5c211?style=for-the-badge" alt="XP"/>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
         <br/><br/><b>🚀 Building Projects</b>
         <br/><sub>Code, commit, deploy, repeat!</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Score-∞-red?style=for-the-badge" alt="Score"/>
       </td>
     </tr>
   </table>
@@ -300,41 +335,44 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Pacman Loader Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <br/><br/>
-  <sub><i>"Eating bugs and shipping features since 2017..."</i></sub>
-</div>
-
-<br/>
-
-<!-- Developer Stats with Pacman Theme -->
+<!-- Developer Journey Stats -->
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/>
         <br/><b>2017</b>
-        <br/><sub>Coding Journey Started</sub>
+        <br/><sub>🎮 Game Started</sub>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"/>
         <br/><b>10+</b>
-        <br/><sub>Technologies Mastered</sub>
+        <br/><sub>⚡ Power-ups Collected</sub>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"/>
         <br/><b>∞</b>
-        <br/><sub>Problems Solved</sub>
+        <br/><sub>🐛 Bugs Defeated</sub>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"/>
         <br/><b>24/7</b>
-        <br/><sub>Learning Mode</sub>
+        <br/><sub>🔥 Streak Mode</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/>
+        <br/><b>∞</b>
+        <br/><sub>🎯 High Score</sub>
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<!-- Pacman Progress Bar -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD3F7,100:f5c211&height=100&section=header&text=🕹️%20GAME%20ON!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
