@@ -3,7 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff"/>
 </div>
 
-<!-- Animated Intro Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Space!" alt="Welcome" />
 </div>
@@ -12,7 +11,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Profile Stats Row -->
 <div align="center">
   <a href="https://github.com/hekimm">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%2FML%20%7C%20Security-6AD3F7?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
@@ -41,7 +39,6 @@
 
 <br/>
 
-<!-- About Me -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </div>
@@ -84,10 +81,6 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           DEVELOPER JOURNEY SECTION         -->
-<!-- ═══════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%97%BA%EF%B8%8F+Developer+Journey" alt="Journey" />
 </div>
@@ -96,74 +89,53 @@ interests: LLM, AppSec, Red Team concepts
 
 <div align="center">
 <table>
-<tr>
-    <td align="center" width="120">
-      <b>2017 – 2019</b>
-    </td>
+  <tr>
+    <td align="center" width="120"><b>2017 – 2019</b></td>
     <td>
       <b>🌱 First Steps — Web & Vanilla JS</b><br/>
-      <sub>Built my first projects with HTML, CSS and JavaScript. Personal site, calculator, Snake game, Caesar cipher.
-      <br/>I just wanted to understand how code worked — getting something on screen felt like magic.</sub>
+      <sub>Built my first projects with HTML, CSS and JavaScript. Personal site, calculator, Snake game, Caesar cipher.<br/>I just wanted to understand how code worked — getting something on screen felt like magic.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>2019 – 2021</b>
-    </td>
+    <td align="center"><b>2019 – 2021</b></td>
     <td>
       <b>⚙️ Algorithms & Early Curiosity</b><br/>
-      <sub>Learned recursion through Minimax, visualized sorting algorithms, built an algorithm visualizer.
-      <br/>Port scanner and hash cracker — pure curiosity, not professional security work.</sub>
+      <sub>Learned recursion through Minimax, visualized sorting algorithms, built an algorithm visualizer.<br/>Port scanner and hash cracker — pure curiosity, not professional security work.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>2022</b>
-    </td>
+    <td align="center"><b>2022</b></td>
     <td>
       <b>🎓 University Begins — CS Foundations + First AI</b><br/>
-      <sub>Data Structures in C, mini shell. First time touching scikit-learn and TensorFlow.
-      <br/>Iris dataset — the moment I understood what machine learning actually does.</sub>
+      <sub>Data Structures in C, mini shell. First time touching scikit-learn and TensorFlow.<br/>Iris dataset — the moment I understood what machine learning actually does.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>2023</b>
-    </td>
+    <td align="center"><b>2023</b></td>
     <td>
       <b>🔬 Going Deeper — Systems & Neural Networks</b><br/>
-      <sub>Built a compiler, socket chat app, process scheduler. Implemented backpropagation
-      <br/>from scratch with NumPy. First CNN with PyTorch and CIFAR-10.</sub>
+      <sub>Built a compiler, socket chat app, process scheduler. Implemented backpropagation<br/>from scratch with NumPy. First CNN with PyTorch and CIFAR-10.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>2024</b>
-    </td>
+    <td align="center"><b>2024</b></td>
     <td>
       <b>🚀 Full-Stack + LLM Era</b><br/>
-      <sub>Production-grade web apps with React, Next.js, PWA. Turkish NLP, RAG chatbot,
-      <br/>LangChain. First freelance project: restaurant POS system.</sub>
+      <sub>Production-grade web apps with React, Next.js, PWA. Turkish NLP, RAG chatbot,<br/>LangChain. First freelance project: restaurant POS system.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>2025 early</b>
-    </td>
+    <td align="center"><b>2025 early</b></td>
     <td>
       <b>🤖 LLM Depth — Local Models & Fine-tuning</b><br/>
-      <sub>Local LLM experiments with Ollama, LoRA fine-tuning, multimodal embeddings with CLIP.
-      <br/>Groundwork for my graduation project ACSA-07 (LLaVA+CLIP architecture).</sub>
+      <sub>Local LLM experiments with Ollama, LoRA fine-tuning, multimodal embeddings with CLIP.<br/>Groundwork for my graduation project ACSA-07 (LLaVA+CLIP architecture).</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>2025 late →</b>
-    </td>
+    <td align="center"><b>2025 late →</b></td>
     <td>
       <b>🔐 Security Pivot — Application & Network Security</b><br/>
-      <sub>After years of building applications, I started asking "how do these break?"
-      <br/>Vuln scanner, web pentest lab, CTF writeups, network anomaly detection.</sub>
+      <sub>After years of building applications, I started asking "how do these break?"<br/>Vuln scanner, web pentest lab, CTF writeups, network anomaly detection.</sub>
     </td>
   </tr>
 </table>
@@ -175,7 +147,6 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<!-- What I Do -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
 </div>
@@ -215,36 +186,153 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<!-- Tech Stack -->
+<!-- ============================================ -->
+<!--           PREMIUM TECH STACK SECTION          -->
+<!-- ============================================ -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 </div>
 
 <br/>
 
-<!-- Tech Stack -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
-</div>
+
+<!-- ── FRONTEND ── -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="7">
+        <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90%20FRONTEND%20%26%20UI-%230d1117?style=for-the-badge&labelColor=1a1b27&color=6AD3F7"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-<div align="center">
+<!-- ── BACKEND ── -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">
+        <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20BACKEND%20%26%20DATABASE-%230d1117?style=for-the-badge&labelColor=1a1b27&color=3ECF8E"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><br/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></td>
+    </tr>
+  </tbody>
+</table>
 
-<h3>🌐 Frontend & Mobile</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/></p>
+<br/>
 
-<h3>⚙️ Backend & Database</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/></p>
+<!-- ── AI / ML ── -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20MACHINE%20LEARNING-%230d1117?style=for-the-badge&labelColor=1a1b27&color=FF6B6B"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="6">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>&nbsp;
+        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-FF6B6B?style=flat-square&logo=pytorch&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h3>🤖 AI / Machine Learning</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/></p>
+<br/>
 
-<h3>🔐 Security & Networking</h3>
-<p><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/></p>
+<!-- ── SECURITY ── -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="5">
+        <img src="https://img.shields.io/badge/%F0%9F%94%90%20SECURITY%20%26%20NETWORKING-%230d1117?style=for-the-badge&labelColor=1a1b27&color=FF4444"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="120"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></td>
+      <td align="center" width="120"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/></td>
+      <td align="center" width="120"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></td>
+      <td align="center" width="120"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></td>
+      <td align="center" width="120"><img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="5">
+        <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Hydra-1A1A1A?style=flat-square&logo=gnu&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=flat-square&logo=linux&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h3>🛠️ DevOps & Tools</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45"/></p>
+<br/>
+
+<!-- ── DEVOPS ── -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="7">
+        <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20DEVOPS%20%26%20TOOLS-%230d1117?style=for-the-badge&labelColor=1a1b27&color=F5A623"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48"/><br/><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
