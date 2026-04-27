@@ -1,6 +1,6 @@
 <!-- Premium Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=Junior%20Software%20Engineer&descSize=18&descAlignY=55&descColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff"/>
 </div>
 
 <!-- Animated Intro Banner -->
@@ -10,13 +10,12 @@
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Profile Stats Row -->
 <div align="center">
   <a href="https://github.com/hekimm">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI/ML-6AD3F7?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%2FML%20%7C%20Security-6AD3F7?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
   </a>
   <img src="https://img.shields.io/badge/Lives-Turkey-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Lives"/>
   <a href="mailto:hekimcanaktas@gmail.com">
@@ -38,12 +37,11 @@
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- About Me Section with Animation -->
+<!-- About Me -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </div>
@@ -64,17 +62,17 @@ education: Celal Bayar University
 current_role: Junior Software Engineer
 
 expertise:
-  - Modern Web Development (React, Next.js)
-  - Backend Engineering (Node.js, FastAPI)
-  - Machine Learning & AI (TensorFlow, PyTorch)
-  - Mobile & Desktop Applications
+  - Full-Stack Web Development
+  - Machine Learning & AI (since 2022)
+  - Application Security & Pentesting
+  - Backend Systems & Architecture
 
-current_projects:
-  - Restaurant POS System (First freelance project)
-  - Smart City Explorer (Multi-API integration)
+current_focus:
+  - ACSA-07 (graduation project, in-progress)
+  - Security tooling & CTF writeups
+  - Web pentest lab & vuln research
 
-learning: LLM, NLP, AI Agents, MLOps
-focus_areas: Full-stack Development, AI/ML, Backend Systems
+interests: LLM, AppSec, Red Team concepts
       </pre>
     </td>
   </tr>
@@ -82,12 +80,102 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- What I Do Section -->
+<!-- ═══════════════════════════════════════════ -->
+<!--           DEVELOPER JOURNEY SECTION         -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%97%BA%EF%B8%8F+Developer+Journey" alt="Journey" />
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120">
+      <b>2017 – 2019</b>
+    </td>
+    <td>
+      <b>🌱 First Steps — Web & Vanilla JS</b><br/>
+      <sub>HTML, CSS, JavaScript ile ilk projeler. Personal site, calculator, Snake game, Caesar cipher.
+      <br/>Kodun ne olduğunu anlamak için yazdım — çalışırsa heyecanlanıyordum.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2019 – 2021</b>
+    </td>
+    <td>
+      <b>⚙️ Algorithms & Early Curiosity</b><br/>
+      <sub>Minimax ile game tree'yi anlamaya çalıştım, algorithm visualizer ile sorting'i gördüm.
+      <br/>Port scanner ve hash cracker — "nasıl çalışır?" merakından, profesyonel değil.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2022</b>
+    </td>
+    <td>
+      <b>🎓 University Begins — CS Foundations + First AI</b><br/>
+      <sub>Data Structures in C, mini shell. İlk kez scikit-learn ve TensorFlow ile tanıştım.
+      <br/>Iris dataset → ML'in ne olduğunu anladığım an.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2023</b>
+    </td>
+    <td>
+      <b>🔬 Going Deeper — Systems & Neural Networks</b><br/>
+      <sub>Compiler yazdım, socket chat app, process scheduler. NumPy ile backpropagation'ı
+      <br/>sıfırdan implement ettim. PyTorch + CIFAR-10 ile ilk CNN.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2024</b>
+    </td>
+    <td>
+      <b>🚀 Full-Stack + LLM Era</b><br/>
+      <sub>React, Next.js, PWA ile production-grade web apps. Türkçe NLP, RAG chatbot,
+      <br/>LangChain. İlk freelance proje: restaurant POS system.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2025 başı</b>
+    </td>
+    <td>
+      <b>🤖 LLM Depth — Local Models & Fine-tuning</b><br/>
+      <sub>Ollama ile local LLM denemeleri, LoRA fine-tune, CLIP ile multimodal embeddings.
+      <br/>ACSA-07 bitirme projesinin (LLaVA+CLIP) temelleri burada atıldı.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2025 sonu →</b>
+    </td>
+    <td>
+      <b>🔐 Security Pivot — Application & Network Security</b><br/>
+      <sub>Yıllarca uygulama geliştirdikten sonra "bunlar nasıl kırılır?" sorusu geldi.
+      <br/>Vuln scanner, web pentest lab, CTF writeups, network anomaly detection.</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- What I Do -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
 </div>
@@ -100,22 +188,22 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
         <br/><b>Modern Web Development</b>
-        <br/><sub>Building modern web apps with React, Next.js, TypeScript</sub>
+        <br/><sub>Building web apps with React, Next.js, TypeScript</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80">
         <br/><b>Backend Engineering</b>
-        <br/><sub>Scalable backend systems with Node.js, FastAPI, PostgreSQL</sub>
+        <br/><sub>Scalable systems with Node.js, FastAPI, PostgreSQL</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
         <br/><b>Machine Learning & AI</b>
-        <br/><sub>AI/ML projects with TensorFlow, PyTorch</sub>
+        <br/><sub>AI/ML projects with TensorFlow, PyTorch, LangChain</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80">
-        <br/><b>Mobile & Desktop</b>
-        <br/><sub>Cross-platform application development</sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80">
+        <br/><b>Application Security</b>
+        <br/><sub>Pentesting, vulnerability research, security tooling</sub>
       </td>
     </tr>
   </table>
@@ -123,12 +211,11 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- Tech Stack Section -->
+<!-- Tech Stack -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 </div>
@@ -186,19 +273,17 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Stats" />
 </div>
 
 <br/>
 
-<!-- Animated Stats Cards -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=ffffff&langs_count=8" height="180em" alt="Top Languages"/>
@@ -206,59 +291,52 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Detailed Contribution Graph -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hekimm&theme=tokyonight" alt="Contribution Details" width="95%"/>
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hekimm&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&area_color=6AD3F7" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- Dynamic Snake Animation (No Workflow Required!) -->
+<!-- Snake -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake+Game!" alt="Snake" />
 </div>
 
 <br/>
 
-<!-- Animated Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hekimm&custom_title=🐍%20Snake%20Eating%20My%20Contributions&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&area_color=6AD3F7" alt="Contribution Snake" width="95%"/>
 </div>
 
 <br/>
 
-<!-- Animated Snake Eating Contributions -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- Dynamic Pacman Section -->
+<!-- Pacman -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%95%B9%EF%B8%8F+Coding+is+my+Game!;%F0%9F%8E%AE+Level+Up+Every+Day!;%F0%9F%9A%80+Eating+Bugs+%26+Shipping+Features!" alt="Pacman" />
 </div>
 
 <br/>
 
-<!-- Animated Pacman Eating Dots -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30">
@@ -266,12 +344,11 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
   <br/><br/>
-  <sub><i>"Eating bugs and shipping features since 2017..."</i></sub>
+  <sub><i>"Writing code, breaking things, securing them — since 2017."</i></sub>
 </div>
 
 <br/>
 
-<!-- Game Stats -->
 <div align="center">
   <table>
     <tr>
@@ -294,7 +371,7 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
         <br/><br/><b>🚀 Building Projects</b>
         <br/><sub>Code, commit, deploy, repeat!</sub>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Score-∞-red?style=for-the-badge" alt="Score"/>
+        <img src="https://img.shields.io/badge/Score-%E2%88%9E-red?style=for-the-badge" alt="Score"/>
       </td>
     </tr>
   </table>
@@ -302,7 +379,6 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Developer Journey Stats -->
 <div align="center">
   <table>
     <tr>
@@ -313,8 +389,8 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"/>
-        <br/><b>10+</b>
-        <br/><sub>⚡ Power-ups Collected</sub>
+        <br/><b>42+</b>
+        <br/><sub>⚡ Projects Built</sub>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"/>
@@ -337,12 +413,11 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- Connect Section -->
+<!-- Connect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
 </div>
@@ -365,21 +440,18 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <br/>
 
-<!-- Animated Coding GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 <br/>
 
-<!-- Quote Section -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
 <br/>
 
-<!-- Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
@@ -388,10 +460,4 @@ focus_areas: Full-stack Development, AI/ML, Backend Systems
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting!+Star+my+repos+if+you+like+them!+%E2%AD%90" alt="Thanks" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer"/>
 </div>
