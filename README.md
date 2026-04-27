@@ -96,14 +96,14 @@ interests: LLM, AppSec, Red Team concepts
 
 <div align="center">
 <table>
-  <tr>
+<tr>
     <td align="center" width="120">
       <b>2017 – 2019</b>
     </td>
     <td>
       <b>🌱 First Steps — Web & Vanilla JS</b><br/>
-      <sub>HTML, CSS, JavaScript ile ilk projeler. Personal site, calculator, Snake game, Caesar cipher.
-      <br/>Kodun ne olduğunu anlamak için yazdım — çalışırsa heyecanlanıyordum.</sub>
+      <sub>Built my first projects with HTML, CSS and JavaScript. Personal site, calculator, Snake game, Caesar cipher.
+      <br/>I just wanted to understand how code worked — getting something on screen felt like magic.</sub>
     </td>
   </tr>
   <tr>
@@ -112,8 +112,8 @@ interests: LLM, AppSec, Red Team concepts
     </td>
     <td>
       <b>⚙️ Algorithms & Early Curiosity</b><br/>
-      <sub>Minimax ile game tree'yi anlamaya çalıştım, algorithm visualizer ile sorting'i gördüm.
-      <br/>Port scanner ve hash cracker — "nasıl çalışır?" merakından, profesyonel değil.</sub>
+      <sub>Learned recursion through Minimax, visualized sorting algorithms, built an algorithm visualizer.
+      <br/>Port scanner and hash cracker — pure curiosity, not professional security work.</sub>
     </td>
   </tr>
   <tr>
@@ -122,8 +122,8 @@ interests: LLM, AppSec, Red Team concepts
     </td>
     <td>
       <b>🎓 University Begins — CS Foundations + First AI</b><br/>
-      <sub>Data Structures in C, mini shell. İlk kez scikit-learn ve TensorFlow ile tanıştım.
-      <br/>Iris dataset → ML'in ne olduğunu anladığım an.</sub>
+      <sub>Data Structures in C, mini shell. First time touching scikit-learn and TensorFlow.
+      <br/>Iris dataset — the moment I understood what machine learning actually does.</sub>
     </td>
   </tr>
   <tr>
@@ -132,8 +132,8 @@ interests: LLM, AppSec, Red Team concepts
     </td>
     <td>
       <b>🔬 Going Deeper — Systems & Neural Networks</b><br/>
-      <sub>Compiler yazdım, socket chat app, process scheduler. NumPy ile backpropagation'ı
-      <br/>sıfırdan implement ettim. PyTorch + CIFAR-10 ile ilk CNN.</sub>
+      <sub>Built a compiler, socket chat app, process scheduler. Implemented backpropagation
+      <br/>from scratch with NumPy. First CNN with PyTorch and CIFAR-10.</sub>
     </td>
   </tr>
   <tr>
@@ -142,27 +142,27 @@ interests: LLM, AppSec, Red Team concepts
     </td>
     <td>
       <b>🚀 Full-Stack + LLM Era</b><br/>
-      <sub>React, Next.js, PWA ile production-grade web apps. Türkçe NLP, RAG chatbot,
-      <br/>LangChain. İlk freelance proje: restaurant POS system.</sub>
+      <sub>Production-grade web apps with React, Next.js, PWA. Turkish NLP, RAG chatbot,
+      <br/>LangChain. First freelance project: restaurant POS system.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>2025 başı</b>
+      <b>2025 early</b>
     </td>
     <td>
       <b>🤖 LLM Depth — Local Models & Fine-tuning</b><br/>
-      <sub>Ollama ile local LLM denemeleri, LoRA fine-tune, CLIP ile multimodal embeddings.
-      <br/>ACSA-07 bitirme projesinin (LLaVA+CLIP) temelleri burada atıldı.</sub>
+      <sub>Local LLM experiments with Ollama, LoRA fine-tuning, multimodal embeddings with CLIP.
+      <br/>Groundwork for my graduation project ACSA-07 (LLaVA+CLIP architecture).</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>2025 sonu →</b>
+      <b>2025 late →</b>
     </td>
     <td>
       <b>🔐 Security Pivot — Application & Network Security</b><br/>
-      <sub>Yıllarca uygulama geliştirdikten sonra "bunlar nasıl kırılır?" sorusu geldi.
+      <sub>After years of building applications, I started asking "how do these break?"
       <br/>Vuln scanner, web pentest lab, CTF writeups, network anomaly detection.</sub>
     </td>
   </tr>
