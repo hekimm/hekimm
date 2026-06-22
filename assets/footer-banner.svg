@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#0b2230;#0d1117" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#05070d">
+        <animate attributeName="stop-color" values="#05070d;#071a22;#05070d" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="ftitle" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7ce7ff"/>
+      <stop offset="1" stop-color="#3a9fd6"/>
+    </linearGradient>
+    <linearGradient id="fsweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="fclip">
+      <text x="500" y="92" text-anchor="middle"
+            font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="800">Thanks for visiting! &#9733;</text>
+    </clipPath>
+    <style>
+      .tw { animation: tw 3s ease-in-out infinite; }
+      @keyframes tw { 0%,100%{opacity:.2} 50%{opacity:1} }
+    </style>
+  </defs>
+  <rect width="1000" height="160" fill="url(#fbg)"/>
+
+  <!-- soft wave -->
+  <path d="M0,120 Q250,80 500,120 T1000,120 V160 H0 Z" fill="#6AD3F7" opacity="0.06">
+    <animate attributeName="d"
+      values="M0,120 Q250,80 500,120 T1000,120 V160 H0 Z;
+              M0,120 Q250,150 500,110 T1000,125 V160 H0 Z;
+              M0,120 Q250,80 500,120 T1000,120 V160 H0 Z" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- twinkling stars -->
+  <g fill="#6AD3F7">
+    <circle class="tw" cx="120" cy="40" r="2"/>
+    <circle class="tw" cx="300" cy="60" r="2" style="animation-delay:.5s"/>
+    <circle class="tw" cx="700" cy="35" r="2" style="animation-delay:1s"/>
+    <circle class="tw" cx="880" cy="55" r="2" style="animation-delay:1.5s"/>
+  </g>
+
+  <text x="500" y="92" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="800" fill="url(#ftitle)">Thanks for visiting! &#9733;</text>
+  <g clip-path="url(#fclip)">
+    <rect x="-260" y="50" width="200" height="60" fill="url(#fsweep)" transform="skewX(-18)">
+      <animate attributeName="x" values="-260;1100" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="500" y="125" text-anchor="middle"
+        font-family="'Fira Code', monospace" font-size="15" fill="#9fd8ee" opacity="0.85">Star my repos if you like them</text>
+</svg>

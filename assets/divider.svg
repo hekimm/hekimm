@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30" width="1000" height="30" role="img" aria-label="animated divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#6AD3F7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6AD3F7" stop-opacity="0.9"/>
+      <stop offset="1"   stop-color="#6AD3F7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dot" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#6AD3F7"/>
+      <stop offset="1" stop-color="#6AD3F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="14" width="1000" height="2" fill="url(#line)"/>
+  <!-- Travelling light pulse -->
+  <circle cy="15" r="9" fill="url(#dot)">
+    <animate attributeName="cx" values="80;920;80" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="r"  values="6;11;6"    dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="15" r="3" fill="#ffffff">
+    <animate attributeName="cx" values="80;920;80" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

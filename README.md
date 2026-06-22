@@ -1,19 +1,21 @@
-<!-- Premium Animated Header -->
+<!-- ============================================ -->
+<!--          CINEMATIC ANIMATED HEADER           -->
+<!-- ============================================ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hekimcan%20Aktaş&fontSize=50&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff"/>
+  <img width="100%" src="./assets/hero-banner.svg" alt="Hekimcan Aktaş — AI/ML Engineer & Full Stack Developer"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Space!" alt="Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=6AD3F7&center=true&vCenter=true&width=820&height=55&lines=%F0%9F%A4%96+AI%2FML+Engineer+building+intelligent+systems;%E2%9A%A1+Full+Stack+Developer+shipping+production+apps;%F0%9F%A7%A0+LLMs%2C+RAG%2C+Fine-tuning+%26+Computer+Vision" alt="Typing headline" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <div align="center">
   <a href="https://github.com/hekimm">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%2FML%20%7C%20Security-6AD3F7?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Full%20Stack-6AD3F7?style=for-the-badge&logo=openai&logoColor=white" alt="Focus"/>
   </a>
   <img src="https://img.shields.io/badge/Lives-Turkey-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Lives"/>
   <a href="mailto:hekimcanaktas@gmail.com">
@@ -35,12 +37,15 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
+<!-- ============================================ -->
+<!--                  ABOUT ME                    -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=320&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </div>
 
 <br/>
@@ -56,20 +61,20 @@ name: Hekimcan Aktaş
 located_in: Turkey
 education: Celal Bayar University
           Software Engineering (2022-2026)
-current_role: Junior Software Engineer
+current_role: AI/ML Engineer · Full Stack Developer
 
 expertise:
+  - Machine Learning &amp; Deep Learning (since 2022)
+  - LLMs, RAG &amp; Fine-tuning (LoRA)
   - Full-Stack Web Development
-  - Machine Learning & AI (since 2022)
-  - Application Security & Pentesting
-  - Backend Systems & Architecture
+  - Backend Systems &amp; Architecture
 
 current_focus:
   - ACSA-07 (graduation project, in-progress)
-  - Security tooling & CTF writeups
-  - Web pentest lab & vuln research
+  - LLaVA + CLIP multimodal architecture
+  - Production-grade full-stack apps
 
-interests: LLM, AppSec, Red Team concepts
+interests: LLMs, Computer Vision, MLOps, Scalable Web
       </pre>
     </td>
   </tr>
@@ -77,12 +82,15 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
+<!-- ============================================ -->
+<!--               DEVELOPER JOURNEY              -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%97%BA%EF%B8%8F+Developer+Journey" alt="Journey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=420&lines=%F0%9F%97%BA%EF%B8%8F+Developer+Journey" alt="Journey" />
 </div>
 
 <br/>
@@ -93,14 +101,14 @@ interests: LLM, AppSec, Red Team concepts
     <td align="center" width="120"><b>2017 – 2019</b></td>
     <td>
       <b>🌱 First Steps — Web & Vanilla JS</b><br/>
-      <sub>Built my first projects with HTML, CSS and JavaScript. Personal site, calculator, Snake game, Caesar cipher.<br/>I just wanted to understand how code worked — getting something on screen felt like magic.</sub>
+      <sub>Built my first projects with HTML, CSS and JavaScript. Personal site, calculator, Snake game.<br/>I just wanted to understand how code worked — getting something on screen felt like magic.</sub>
     </td>
   </tr>
   <tr>
     <td align="center"><b>2019 – 2021</b></td>
     <td>
       <b>⚙️ Algorithms & Early Curiosity</b><br/>
-      <sub>Learned recursion through Minimax, visualized sorting algorithms, built an algorithm visualizer.<br/>Port scanner and hash cracker — pure curiosity, not professional security work.</sub>
+      <sub>Learned recursion through Minimax, visualized sorting algorithms, built an algorithm visualizer.<br/>Started loving the math behind code — the seed of my ML interest.</sub>
     </td>
   </tr>
   <tr>
@@ -134,8 +142,8 @@ interests: LLM, AppSec, Red Team concepts
   <tr>
     <td align="center"><b>2025 late →</b></td>
     <td>
-      <b>🔐 Security Pivot — Application & Network Security</b><br/>
-      <sub>After years of building applications, I started asking "how do these break?"<br/>Vuln scanner, web pentest lab, CTF writeups, network anomaly detection.</sub>
+      <b>🧠 Multimodal AI & MLOps</b><br/>
+      <sub>Scaling LLaVA + CLIP pipelines, vector databases and retrieval-augmented generation.<br/>Shipping AI features end-to-end — from model training to a polished full-stack product.</sub>
     </td>
   </tr>
 </table>
@@ -143,12 +151,15 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
+<!-- ============================================ -->
+<!--                  WHAT I DO                   -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=360&lines=%E2%9A%A1+What+I+Do" alt="What I Do" />
 </div>
 
 <br/>
@@ -156,6 +167,16 @@ interests: LLM, AppSec, Red Team concepts
 <div align="center">
   <table>
     <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
+        <br/><b>Machine Learning & AI</b>
+        <br/><sub>Training & deploying models with PyTorch, TensorFlow, scikit-learn</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="80">
+        <br/><b>LLMs & Multimodal AI</b>
+        <br/><sub>RAG, LoRA fine-tuning, LangChain, CLIP & LLaVA pipelines</sub>
+      </td>
       <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
         <br/><b>Modern Web Development</b>
@@ -166,23 +187,13 @@ interests: LLM, AppSec, Red Team concepts
         <br/><b>Backend Engineering</b>
         <br/><sub>Scalable systems with Node.js, FastAPI, PostgreSQL</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
-        <br/><b>Machine Learning & AI</b>
-        <br/><sub>AI/ML projects with TensorFlow, PyTorch, LangChain</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80">
-        <br/><b>Application Security</b>
-        <br/><sub>Pentesting, vulnerability research, security tooling</sub>
-      </td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
@@ -191,20 +202,55 @@ interests: LLM, AppSec, Red Team concepts
 <!-- ============================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=360&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
 
+<!-- ── AI / ML (FEATURED FIRST) ── -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">
+        <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20MACHINE%20LEARNING-%230d1117?style=for-the-badge&labelColor=1a1b27&color=FF6B6B"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td>
+      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="6">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>&nbsp;
+        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/LLaVA-5A4FCF?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-FF6B6B?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/RAG-3ECF8E?style=flat-square&logo=databricks&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
 <!-- ── FRONTEND ── -->
 <table>
   <thead>
     <tr>
       <th colspan="7">
-        <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-        <br/>
         <img src="https://img.shields.io/badge/%F0%9F%8C%90%20FRONTEND%20%26%20UI-%230d1117?style=for-the-badge&labelColor=1a1b27&color=6AD3F7"/>
       </th>
     </tr>
@@ -247,77 +293,12 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<!-- ── AI / ML ── -->
-<table>
-  <thead>
-    <tr>
-      <th colspan="6">
-        <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20MACHINE%20LEARNING-%230d1117?style=for-the-badge&labelColor=1a1b27&color=FF6B6B"/>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></td>
-      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></td>
-      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
-      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></td>
-      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td>
-      <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="6">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>&nbsp;
-        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-FF6B6B?style=flat-square&logo=pytorch&logoColor=white"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<!-- ── SECURITY ── -->
-<table>
-  <thead>
-    <tr>
-      <th colspan="5">
-        <img src="https://img.shields.io/badge/%F0%9F%94%90%20SECURITY%20%26%20NETWORKING-%230d1117?style=for-the-badge&labelColor=1a1b27&color=FF4444"/>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="120"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></td>
-      <td align="center" width="120"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/></td>
-      <td align="center" width="120"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></td>
-      <td align="center" width="120"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></td>
-      <td align="center" width="120"><img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="5">
-        <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/Hydra-1A1A1A?style=flat-square&logo=gnu&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=flat-square&logo=linux&logoColor=white"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<!-- ── DEVOPS ── -->
+<!-- ── DEVOPS / MLOPS ── -->
 <table>
   <thead>
     <tr>
       <th colspan="7">
-        <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20DEVOPS%20%26%20TOOLS-%230d1117?style=for-the-badge&labelColor=1a1b27&color=F5A623"/>
+        <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20DEVOPS%20%26%20MLOPS-%230d1117?style=for-the-badge&labelColor=1a1b27&color=F5A623"/>
       </th>
     </tr>
   </thead>
@@ -338,13 +319,15 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
-<!-- GitHub Stats -->
+<!-- ============================================ -->
+<!--                GITHUB STATS                  -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=420&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -352,6 +335,12 @@ interests: LLM, AppSec, Red Team concepts
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hekimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekimm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=ffffff&langs_count=8" height="180em" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hekimm&theme=tokyonight&hide_border=true&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br/>
@@ -368,19 +357,15 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
-<!-- Snake -->
+<!-- ============================================ -->
+<!--              CONTRIBUTION SNAKE              -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake+Game!" alt="Snake" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hekimm&custom_title=🐍%20Snake%20Eating%20My%20Contributions&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&area_color=6AD3F7" alt="Contribution Snake" width="95%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=%F0%9F%90%8D+Contribution+Snake+Game!" alt="Snake" />
 </div>
 
 <br/>
@@ -391,13 +376,15 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
-<!-- Pacman -->
+<!-- ============================================ -->
+<!--                CINEMATIC ARCADE              -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%95%B9%EF%B8%8F+Coding+is+my+Game!;%F0%9F%8E%AE+Level+Up+Every+Day!;%F0%9F%9A%80+Eating+Bugs+%26+Shipping+Features!" alt="Pacman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=560&lines=%F0%9F%95%B9%EF%B8%8F+Coding+is+my+Game!;%F0%9F%A4%96+Training+Models+%26+Shipping+Features!;%F0%9F%9A%80+Level+Up+Every+Day!" alt="Arcade" />
 </div>
 
 <br/>
@@ -409,7 +396,7 @@ interests: LLM, AppSec, Red Team concepts
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
   <br/><br/>
-  <sub><i>"Writing code, breaking things, securing them — since 2017."</i></sub>
+  <sub><i>"Building intelligent systems and shipping full-stack products — since 2017."</i></sub>
 </div>
 
 <br/>
@@ -419,22 +406,22 @@ interests: LLM, AppSec, Red Team concepts
     <tr>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/>
-        <br/><br/><b>🎯 Problem Solving</b>
-        <br/><sub>Every bug is a level, every solution is a victory!</sub>
+        <br/><br/><b>🤖 AI / ML Engineering</b>
+        <br/><sub>From data to deployed models — every metric is a win!</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/Level-Expert-6AD3F7?style=for-the-badge" alt="Level"/>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
         <br/><br/><b>📚 Continuous Learning</b>
-        <br/><sub>New technologies = Power-ups</sub>
+        <br/><sub>New papers & frameworks = Power-ups</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/XP-10000%2B-f5c211?style=for-the-badge" alt="XP"/>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
-        <br/><br/><b>🚀 Building Projects</b>
-        <br/><sub>Code, commit, deploy, repeat!</sub>
+        <br/><br/><b>🚀 Building Products</b>
+        <br/><sub>Train, build, deploy, repeat!</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/Score-%E2%88%9E-red?style=for-the-badge" alt="Score"/>
       </td>
@@ -460,7 +447,7 @@ interests: LLM, AppSec, Red Team concepts
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"/>
         <br/><b>∞</b>
-        <br/><sub>🐛 Bugs Defeated</sub>
+        <br/><sub>🧠 Models Trained</sub>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"/>
@@ -478,13 +465,15 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <br/>
 
-<!-- Connect -->
+<!-- ============================================ -->
+<!--                  CONNECT                     -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=420&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
 </div>
 
 <br/>
@@ -517,12 +506,8 @@ interests: LLM, AppSec, Red Team concepts
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting!+Star+my+repos+if+you+like+them!+%E2%AD%90" alt="Thanks" />
+  <img width="100%" src="./assets/footer-banner.svg" alt="Thanks for visiting — star my repos if you like them"/>
 </div>
