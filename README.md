@@ -1,108 +1,75 @@
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Hekimcan Aktaş — Cloud & Database Engineer · Oracle Cloud Infrastructure certified"/>
-</div>
+<img src="assets/header.svg" width="100%" alt="Hekimcan Aktaş — Cloud & Database Engineer"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1400&color=C9A227&center=true&vCenter=true&width=720&lines=from+interface+to+database;oracle+%C2%B7+pl%2Fsql+%C2%B7+.net+%C2%B7+oci;transaction+isolation+%C2%B7+exactly-once+%C2%B7+reconciliation;quiet+code%2C+loud+results" alt="subtitle"/>
-</div>
+I build software end to end, from the interface down to the database, mostly with **.NET, Oracle and PL/SQL**. The parts I care about most are the ones that are hard to see: transaction boundaries, how data is stored, who is allowed to read it, and what trail it leaves behind.
+
+I'm Oracle Cloud Infrastructure certified and currently **open to remote roles** in cloud, database, data engineering or full stack .NET — full-time or contract, from İzmir (UTC+3), fully overlapping with European working hours.
 
 <br/>
 
-Junior Cloud & Database Engineer based in İzmir, Türkiye. I work end to end — from the interface down to the database — with **.NET, Oracle and PL/SQL**, and I'm **Oracle Cloud Infrastructure certified**.
+## Experience
 
-**Open to remote roles** in cloud, database, data engineering or full stack .NET — full-time or contract, UTC+3, fully overlapping with European working hours.
+**Probel Yazılım** — Software Engineer (Intern)<br/>
+<sub>Jun 2026 – Sep 2026 · İzmir</sub>
 
-<br/>
+As part of the internship, I built a patient feedback and service recovery module end to end for an enterprise hospital information system. Surveys go out automatically, responses are scored with NPS, CSAT and CES, and low scores open a case that staff track on a dashboard. Clinical events are verified with HMAC signatures, invitations go out over WhatsApp and SMS, and personal data is encrypted, audit-logged and retained under GDPR and KVKK rules. On the database side I wrote the PL/SQL procedures, tuned the queries and ran Oracle locally on Docker.
 
-### Currently
+<sub>.NET 8 · ASP.NET Core MVC · Dapper · Oracle · PL/SQL · DevExpress · DevExtreme · SignalR</sub>
 
-```text
-status    Open to work · Junior Cloud / Database / Data Engineer
-focus     Oracle · PL/SQL · .NET · Oracle Cloud Infrastructure
-certs     OCI 2026 Architect Associate · OCI 2026 Foundations Associate
-          Oracle AI Database Foundations Associate
-based     İzmir, Türkiye · UTC+3 · remote
-```
+**Freelance** — Software Developer<br/>
+<sub>2023 – May 2026</sub>
 
-### Experience
+Two restaurant billing and POS systems and two QR menu and ordering systems, each delivered end to end to a paying client. One of the ordering systems accepts orders only from inside the venue, using a PostGIS geofence, and a small Node.js agent routes each order to the kitchen's thermal printer.
 
-◆ **Probel Yazılım** — Software Engineer (Intern) · Jun 2026 – Sep 2026
-
-As part of the internship, built a patient feedback and service recovery module end to end for an enterprise hospital information system: automated survey delivery, NPS / CSAT / CES scoring services, a case-tracking dashboard, HMAC-signed clinical event verification, WhatsApp and SMS adapters, PII encryption, audit logging and GDPR / KVKK-compliant data retention. Wrote Oracle PL/SQL procedures, optimized queries and set up a local Oracle environment on Docker.
-
-`.NET 8` `ASP.NET Core MVC` `Dapper` `Oracle` `PL/SQL` `DevExpress` `DevExtreme` `SignalR`
+<sub>.NET · SQL Server · Node.js · PostgreSQL · PostGIS</sub>
 
 <br/>
 
-◆ **Freelance Software Developer** · 2023 – May 2026
+## Projects
 
-Two restaurant billing / POS systems and two QR menu and ordering systems, delivered end to end to paying clients — including geofence-verified ordering with PostGIS and a Node.js agent that routes orders to the kitchen's thermal printer.
+**Double-entry ledger and reconciliation engine**<br/>
+A ledger whose balance cannot drift and where a resubmitted transaction is never posted twice. At the end of each day it matches entries against card, EFT and correspondent files and produces a discrepancy report. Most of the work is in transaction isolation, locking and exactly-once processing.<br/>
+<sub>PostgreSQL · .NET</sub>
 
-`.NET` `SQL Server` `Node.js` `PostgreSQL` `PostGIS`
+**MEDULA invoice pre-check and rejection prevention engine**<br/>
+Runs SUT reimbursement rules against a healthcare invoice before it is submitted, flags the records that would be rejected and proposes a correction for each.<br/>
+<sub>.NET · Oracle · PL/SQL</sub>
 
-<br/>
+**Personal data inventory and masking tool**<br/>
+Finds and classifies personal data across a database, masks it, generates synthetic data for test environments and produces a VERBİS-ready inventory.<br/>
+<sub>.NET · Oracle · PostgreSQL</sub>
 
-### Selected projects
+**GIDEON** — graduation project<br/>
+A wake-word desktop assistant for Windows. Speech is transcribed locally with faster-whisper; trivial commands stay on a fast local router, and real coding and research tasks go to a GLM agent that runs behind a safety gate for destructive actions. Replies are spoken with edge-tts. The Python backend and the Electron UI talk over a local WebSocket: wake word → STT → intent router → agents → TTS.<br/>
+<sub>Python · Electron · faster-whisper · openWakeWord · edge-tts · WebSockets</sub>
 
-◆ **Double-Entry Ledger & Reconciliation Engine**
+**RAG chatbot platform**<br/>
+A retrieval-augmented assistant with a Turkish NLP pipeline: document chunking, vector search and answer generation.<br/>
+<sub>Python · LangChain · vector search</sub>
 
-A ledger whose balance never breaks and where a resubmitted transaction is never posted twice. At end of day it matches entries against card, EFT and correspondent files and produces a discrepancy report. Built around transaction isolation, locking and exactly-once processing.
-
-`PostgreSQL` `.NET`
-
-◆ **MEDULA Invoice Pre-Check & Rejection Prevention Engine**
-
-Applies SUT reimbursement rules before a healthcare invoice is submitted, catching records that would be rejected and proposing corrections.
-
-`.NET` `Oracle` `PL/SQL`
-
-◆ **Personal Data Inventory & Masking Tool**
-
-Discovers and classifies personal data in a database, masks it, generates synthetic data for test environments and produces a VERBİS-ready data inventory.
-
-`.NET` `Oracle` `PostgreSQL`
-
-◆ **GIDEON** — graduation project
-
-A wake-word desktop AI assistant for Windows. It transcribes speech locally with faster-whisper, routes real coding and research tasks to a GLM agent, runs system and web actions behind a safety gate for destructive commands, and replies out loud with edge-tts. A Python backend and an Electron UI talk over a local WebSocket: wake word → STT → intent router → agents → TTS.
-
-`Python` `Electron` `faster-whisper` `openWakeWord` `edge-tts` `WebSockets`
-
-◆ **RAG Chatbot Platform**
-
-Retrieval-augmented assistant with a Turkish NLP pipeline: document chunking, vector search and answer generation end to end.
-
-`Python` `LangChain` `vector search`
-
-<div align="left">
-<a href="https://github.com/hekimm?tab=repositories">
-<img src="https://img.shields.io/badge/browse%20all%20repositories%20%E2%86%92-16305B?style=flat-square&labelColor=16305B&color=C9A227"/>
-</a>
-</div>
+→ [All repositories](https://github.com/hekimm?tab=repositories)
 
 <br/>
 
-### Stack
+## Stack
 
-```text
-database   Oracle · PL/SQL · PostgreSQL · PostGIS · SQL Server · data modeling · query optimization
-cloud      Oracle Cloud Infrastructure (OCI) · Docker
-backend    C# · .NET 8 · ASP.NET Core · ASP.NET MVC · Dapper · Entity Framework · Node.js · SignalR · REST
-frontend   React · TypeScript · DevExpress · DevExtreme · Electron
-ai         RAG · LangChain · faster-whisper · Python
-tools      Git · Linux
-```
+| | |
+|---|---|
+| Database | Oracle, PL/SQL, PostgreSQL, PostGIS, SQL Server — data modeling, query optimization |
+| Cloud | Oracle Cloud Infrastructure, Docker |
+| Backend | C#, .NET 8, ASP.NET Core, ASP.NET MVC, Dapper, Entity Framework, Node.js, SignalR, REST |
+| Frontend | React, TypeScript, DevExpress, DevExtreme, Electron |
+| AI | RAG, LangChain, faster-whisper, Python |
+| Tools | Git, Linux |
 
-### Certifications
+## Certifications
 
-```text
-oracle       OCI 2026 Certified Architect Associate
-             OCI 2026 Certified Foundations Associate
-             Oracle AI Database Certified Foundations Associate
-hackerrank   Software Engineer (Role) · Frontend Developer, React (Role)
-             SQL (Advanced) · Problem Solving (Intermediate) · Rest API (Intermediate)
-```
+| | |
+|---|---|
+| Oracle | OCI 2026 Certified Architect Associate · OCI 2026 Certified Foundations Associate · Oracle AI Database Certified Foundations Associate |
+| HackerRank | Software Engineer (Role) · Frontend Developer, React (Role) · SQL (Advanced) · Problem Solving (Intermediate) · Rest API (Intermediate) |
 
-### Contact
+<br/>
 
 [hekimaktas.com](https://hekimaktas.com) · hekimcanaktas@gmail.com · Software Engineering, Manisa Celal Bayar University
+
+<sub><i>quiet code, loud results.</i></sub>
